@@ -1,0 +1,1 @@
+query_id=AAE1Sl4NAwAAADVKXg1enwLK&user=%7B%22id%22%3A6666734133%2C%22first_name%22%3A%22Mr%22%2C%22last_name%22%3A%22Dx%20%F0%9F%8D%85%22%2C%22username%22%3A%22mxdc97%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725551104&hash=dfc21d0d2f81d726e209ad16d0fc0a420119750043def0609a3bbe9a655d42c3

@@ -1,0 +1,5 @@
+HD: Mở game trên app -> F12 -> Dán vào 
+
+
+const ss = sessionStorage.getItem("sessionId");
+ss.split("https://www.okx.com/mini-app/racer#tgWebAppData=").pop().split("&tgWebAppVersion").shift()

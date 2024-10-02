@@ -1,0 +1,6 @@
+const game = document.querySelector('iframe');
+const src = game.getAttribute('src');
+const startIndex = src.indexOf('#tgWebAppData=') + '#tgWebAppData='.length;
+const endIndex = src.indexOf('&', startIndex);
+const query_id = src.substring(startIndex, endIndex);
+query_id
